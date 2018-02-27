@@ -1,0 +1,16 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel.js"
+  },
+  "author": "Laure",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.6.2",
+    "node-sass": "^4.7.2"
+  }
+}
